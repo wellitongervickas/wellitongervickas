@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**wellitongervickas/wellitongervickas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm (gervickas.js), a passionate software engineer with expertise in blockchain technology, frontend and backend development, and Zero-Knowledge (ZK) research. I'm dedicated to pushing the boundaries of technology and building innovative solutions.
 
-Here are some ideas to get you started:
+- 💼 Currently working as a Blockchain Engineer
+- 🚀 Exploring the world of Web3 and decentralized applications
+- 🔍 Researching Zero-Knowledge proofs for enhanced privacy and security
+- 🌟 Open source enthusiast and contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories to see my latest projects and contributions. Let's connect and collaborate on exciting new ventures!
+
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)]([https://github.com/your-username](https://github.com/wellitongervickas))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/welliton-gervickas/)
