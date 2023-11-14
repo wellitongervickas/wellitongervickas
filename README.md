@@ -1,7 +1,7 @@
 
 ## Hi there! 👋
 
-I'm (gervickas.js), a passionate software engineer with a focus on frontend and backend development. I have a keen interest in pushing the boundaries of technology and building innovative solutions.
+I'm (gervickas.js), a passionate software engineer with a focus on blockchain, frontend and backend development. I have a keen interest in pushing the boundaries of technology and building innovative solutions.
 
 - 💼 Currently working as a Software and Blockchain Engineer
 - 🚀 Exploring the latest developments in frontend and backend technologies
