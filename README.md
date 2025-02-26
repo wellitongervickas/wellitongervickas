@@ -23,7 +23,6 @@
 
 ### 📫 Let's Connect  
 - 💼 **LinkedIn**: [linkedin.com/in/welliton-gervickas](https://linkedin.com/in/welliton-gervickas)  
-- ✉️ **Email**: wellitogervickas@gmail.com  
-- 🌐 **Portfolio**: [welliton.dev](https://welliton.dev) (optional link)  
+
 
 **Building open-source solutions for a decentralized future. Let’s collaborate!** 🚀  
