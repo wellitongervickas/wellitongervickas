@@ -1,16 +1,29 @@
+# 👋 Hi, I'm Welliton Gervickas  
+**Senior Software Engineer** | Building Scalable Systems for Web3 & DeFi  
 
-## Hi there! 👋
+### 🛠️ Tech Stack  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
-I'm (gervickas.js), a passionate software engineer with a focus on blockchain, frontend and backend development. I have a keen interest in pushing the boundaries of technology and building innovative solutions.
 
-- 💼 Currently working as a Software and Blockchain Engineer
-- 🚀 Exploring the latest developments in frontend and backend technologies
+### 🔍 What I'm Exploring  
+- **AI-Driven DevTools**: Automating Web3 workflows with LLMs for contract auditing and deployment.  
+- **Geospatial APIs**: Building high-performance mapping engines for decentralized logistics.  
+---
 
-- 🌟 Open source enthusiast and contributor
+### 📈 Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellitongervickas&layout=compact&theme=dark&hide_border=true)
 
-Feel free to explore my repositories to see my latest projects and contributions. Let's connect and collaborate on exciting new ventures!
+---
 
-New repo as [blockchain hub](https://github.com/0xdevhub)
+### 📫 Let's Connect  
+- 💼 **LinkedIn**: [linkedin.com/in/welliton-gervickas](https://linkedin.com/in/welliton-gervickas)  
+- ✉️ **Email**: wellitogervickas@gmail.com  
+- 🌐 **Portfolio**: [welliton.dev](https://welliton.dev) (optional link)  
 
-[![GitHub Followers](https://img.shields.io/github/followers/wellitongervickas?style=social)](https://github.com/wellitongervickas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/welliton-gervickas/)
+**Building open-source solutions for a decentralized future. Let’s collaborate!** 🚀  
