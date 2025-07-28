@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Welliton Gervickas  
-** Software Engineer**
+## 👋 Hi, I'm Software Engineer
 
-
-### 📫 Let's Connect  
-- 💼 **LinkedIn**: [linkedin.com/in/welliton-gervickas](https://linkedin.com/in/welliton-gervickas)  
+**LinkedIn**: [linkedin.com/in/welliton-gervickas](https://linkedin.com/in/welliton-gervickas)  
 
 
