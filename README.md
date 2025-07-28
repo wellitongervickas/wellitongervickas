@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Welliton Gervickas  
-**Senior Software Engineer** | Building Scalable Systems for Web3 & DeFi  
+** Software Engineer**
 
 
 ### 📫 Let's Connect  
